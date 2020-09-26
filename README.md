@@ -17,3 +17,10 @@ Bored in quarantine? Let's connect over a simple chat app where everyone is welc
 5. Open index.html on your browser and ta-da! Have fun amigo!
 
    ![Screenshot](https://github.com/PRATIKNALAWADE/Chat-app/blob/master/Screenshot-chat%20(2).png)
+
+
+##### If you are new or learning about web sockets,check out https://www.youtube.com/watch?v=i5OVcTdt_OU to build fundamental knowledge on the topic.
+##### I found the cheat sheet quite useful
+https://gist.github.com/sohelamin/08e214dfca17c3fd6baf2306da4dc315
+
+#### HAPPY LEARNING ;)
